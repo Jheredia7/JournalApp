@@ -21,8 +21,8 @@ export const JournalPage = () => {
         disabled={isSaving}
         size="large"
         sx={{
-          color: "theme",
-          backgroundColor: "white",
+          color: "white",
+          backgroundColor: "#262254",
           ":hover": { backgroundColor: "white", opacity: 0.9 },
           position: "fixed",
           right: 50,
